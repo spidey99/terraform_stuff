@@ -6,10 +6,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "thegroup"{
-  name="${var.rg}"
-  location="${var.location}"
+ name="${var.rg}"
+ location="${var.location}"
 }
 
-output "bubba"{
-  value="${azurerm_resource_group.thegroup.name}"
-}
