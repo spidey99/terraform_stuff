@@ -3,6 +3,7 @@ sub_id="0ab9ad2e-f316-4da5-b243-e7f65da24755"
 tenant="a7288f82-b9ee-4329-925d-f67e405ec2a4"
 password="a652c6b9-c738-49cd-a3e5-6fa60e645639"
 
+prefix="table2rj"
 rg="table2rjapprg"
 location="westcentralus"
 sec_group_name="table2rjsecgroup"
